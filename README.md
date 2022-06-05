@@ -2,7 +2,7 @@
 
 Peter Gagarinov is a software engineering architect and an open source enthusiast with a focus on machine learning, trading system, applied financial and mathematical modelling, distributed systems and technical computing.
 
-He leads/works as a consultant for a number of closed-source and open-source  development projects including [Alliedium](https://alliedium.alliedtesting.com/) and [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool).
+He leads/works as a consultant for a number of closed-source and open-source  development projects including [Alliedium](https://alliedium.alliedtesting.com/), [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool) and [PyTorch Hyperlight](https://github.com/pgagarinov/pytorch-hyperlight).
 
 Peter has started his career as quantitative engineer at a bank risk analysis department right after graduating from [Lomonosov Moscow State University](https://www.msu.ru/en/) with Master Degree in Applied Mathematics and Computer Science in 2003. Since then Peter has been involved in a number of commercial research and software development projects around financial modeling, market simulation, development and productizing StatArb trading systems and algorithms (primarily for US stock/index, futures, volatility and electricity markets). 
 
